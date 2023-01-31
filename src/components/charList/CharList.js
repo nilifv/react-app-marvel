@@ -72,7 +72,7 @@ const CharList = (props) => {
         return (
             <ul className="char__grid">
                 {items}
-            </ul>
+        </ul>
         )
     }
 
